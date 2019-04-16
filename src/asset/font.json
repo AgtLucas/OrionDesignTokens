@@ -3,7 +3,6 @@
     "font": {
       "circular": {
         "family-name": { "value": "AS Circular" },
-        "dir": { "value": "../fonts/" },
         "filename": { "value": "ASCircularWeb" },
         "weight": {
           "light": { "value": "-Light"},
